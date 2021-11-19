@@ -1,0 +1,36 @@
+body{
+    padding-top: 200px;
+    background-color:black;
+    font-family: 'Courier New', Courier, monospace;
+    color: silver;
+    text-align: center;
+    font-size: 20px;
+}
+#i1,#i2{
+    color: red;
+    font-weight: 900;
+}
+input{
+    border-radius:400px;
+    border-color: none;
+    border-style:none;
+    background-color: silver;
+}
+button{
+    font-weight:900;
+    text-decoration: none;
+    border-style: solid;
+    background-color: black;
+    border-radius: 40px;
+}
+a{
+    text-decoration: none;
+    color: silver;
+    background-color: black;
+    border-radius: 40px;
+    border-style: none;
+}
+#b1{
+    color:silver;
+
+}

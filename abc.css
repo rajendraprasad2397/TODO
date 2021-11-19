@@ -1,0 +1,25 @@
+body{
+    
+    font-size: 20px;
+    font-weight: bold;
+    font-family:sans-serif;
+    color: white;
+}
+UL{
+    color: red;
+}
+hr{
+    border-style: dotted;
+   
+}
+.A{
+    padding: 20px;
+    
+    background-color:black;
+    margin:10px 10px 10px 10px;
+}
+.b{
+    padding:20px;
+    background-color:black;
+    margin:10px 10px 10px 10px;
+}
